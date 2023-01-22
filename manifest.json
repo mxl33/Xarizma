@@ -1,0 +1,16 @@
+{
+    "start_url": "./",
+    "name": "XARIZMA",
+    "short_name": "XARIZMA",
+    "icons": [
+        {
+            "src": "img/_favicons/google-touch-icon512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ],
+    "background_color": "#333",
+    "theme_color": "#333",
+    "display": "fullscreen"
+}
