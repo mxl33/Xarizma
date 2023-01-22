@@ -1,0 +1,20 @@
+{
+    "start_url": "https://mxl33.github.io/Xarizma/",
+    "name": "XARIZMA",
+    "short_name": "XARIZMA",
+    "icons": [
+        {
+            "src": "img/_favicons/icon-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "img/_favicons/icon-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "background_color": "#333",
+    "theme_color": "#333",
+    "display": "fullscreen"
+}
