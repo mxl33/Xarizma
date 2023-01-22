@@ -4,12 +4,12 @@
     "short_name": "XARIZMA",
     "icons": [
         {
-            "src": "img/_favicons/icon-192.png",
+            "src": "img/favicons/icon-192.png",
             "type": "image/png",
             "sizes": "192x192"
         },
         {
-            "src": "img/_favicons/icon-512.png",
+            "src": "img/favicons/icon-512.png",
             "type": "image/png",
             "sizes": "512x512"
         }
